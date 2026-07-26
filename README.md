@@ -21,7 +21,7 @@ Este projeto foi desenvolvido com o objetivo de aprofundar os estudos em **Java*
 
 ## 📚 Conceitos praticados
 
-Durante o desenvolvimento deste projeto foram aplicados diversos conceitos importantes, entre eles:
+Durante o desenvolvimento deste projeto foram aplicados os conceitos:
 
 * Programação Orientada a Objetos
 
