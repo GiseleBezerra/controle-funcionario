@@ -129,9 +129,3 @@ Este projeto continuará recebendo melhorias conforme avanço nos estudos. Algum
 * Refatoração para reduzir duplicação de código
 
 ---
-
-## 🎯 Objetivo
-
-Este projeto tem como objetivo consolidar conhecimentos sobre o ecossistema Spring e aplicar boas práticas utilizadas no desenvolvimento de APIs REST.
-
----
